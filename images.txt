@@ -2,3 +2,4 @@ nginx
 python:alpine3.19
 centos:centos7
 node
+centos
